@@ -7,4 +7,5 @@ Repository bersama praktikum DevOps - Politeknik Negeri Batam.
 | Developer A | Angel | @angelchrstn |
 | Developer B | Moses | @moseshendika |
 ## Daftar Skrip
-- setup.sh - menyiapkan lingkungan dan menjalankan smoke test- healthcheck.sh - memeriksa status layanan
+- setup.sh - menyiapkan lingkungan dan menjalankan smoke test
+- healthcheck.sh - memeriksa status layanan
